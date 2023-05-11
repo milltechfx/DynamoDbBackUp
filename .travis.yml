@@ -1,9 +1,0 @@
-sudo: true
-language: node_js
-node_js:
-- node
-- 10
-- 8
-before_install:
-- chmod +x .travis/build.sh
-script: .travis/build.sh

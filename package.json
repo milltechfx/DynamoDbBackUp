@@ -1,14 +1,17 @@
 {
-  "name": "dynamodb-backup-restore",
-  "version": "0.5.0",
+  "name": "@milltechfx/dynamodb-backup-restore",
+  "version": "1.0.0",
   "description": "NPM package for Backup and Restore AWS DynamoDB",
-  "homepage": "https://github.com/shevchenkos/DynamoDbBackUp",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "homepage": "https://github.com/milltechfx/DynamoDbBackUp",
   "main": "index.js",
-  "author": "shevchenkos",
+  "author": "milltechfx",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shevchenkos/DynamoDbBackUp"
+    "url": "https://github.com/milltechfx/DynamoDbBackUp"
   },
   "keywords": [
     "gulp",
@@ -25,14 +28,14 @@
     "backup"
   ],
   "dependencies": {
+    "fs-extra": "^0.26.4",
     "lodash": "^4.13.1",
-    "node-zip": "^1.1.0",
-    "fs-extra": "^0.26.4"
+    "node-zip": "^1.0.1"
   },
   "devDependencies": {
     "aws-sdk": "^2.4.7",
-    "gulp": "^4.0.0",
-    "gulp-jasmine": "^2.4.0",
-    "yargs": "^4.6.0"
+    "gulp": "^4.0.2",
+    "gulp-jasmine": "^4.0.0",
+    "yargs": "^17.7.2"
   }
 }
