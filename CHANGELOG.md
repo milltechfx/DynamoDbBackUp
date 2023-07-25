@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/milltechfx/MillTechFX.DynamoDbBackUp/compare/v1.0.1...v1.0.2) (2023-07-24)
+
+
+### Bug Fixes
+
+* await put object ([c735eb0](https://github.com/milltechfx/MillTechFX.DynamoDbBackUp/commit/c735eb0a2b190cb8b72567a8934e2897e60f2304))
+
 ## [1.0.1](https://github.com/milltechfx/MillTechFX.DynamoDbBackUp/compare/v1.0.0...v1.0.1) (2023-05-11)
 
 
