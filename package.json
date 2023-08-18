@@ -1,6 +1,6 @@
 {
   "name": "@milltechfx/dynamodb-backup-restore",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "NPM package for Backup and Restore AWS DynamoDB",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
