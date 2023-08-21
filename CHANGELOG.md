@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.10](https://github.com/milltechfx/MillTechFX.DynamoDbBackUp/compare/v1.0.9...v1.0.10) (2023-08-21)
+
+
+### Bug Fixes
+
+* please work this time ([7b9c5f3](https://github.com/milltechfx/MillTechFX.DynamoDbBackUp/commit/7b9c5f312089cf2daa51399b55be4985e7a68f96))
+* undo last change ([3319e23](https://github.com/milltechfx/MillTechFX.DynamoDbBackUp/commit/3319e236c375c4da52947a9ba238f03897e4ab64))
+
 ## [1.0.9](https://github.com/milltechfx/MillTechFX.DynamoDbBackUp/compare/v1.0.8...v1.0.9) (2023-08-21)
 
 
