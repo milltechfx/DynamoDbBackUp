@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.11](https://github.com/milltechfx/MillTechFX.DynamoDbBackUp/compare/v1.0.10...v1.0.11) (2023-11-16)
+
+
+### Bug Fixes
+
+* add retry and backoff logic ([0e45815](https://github.com/milltechfx/MillTechFX.DynamoDbBackUp/commit/0e45815103f63ac9f7aeb77d7aff51690f036b5b))
+
 ## [1.0.10](https://github.com/milltechfx/MillTechFX.DynamoDbBackUp/compare/v1.0.9...v1.0.10) (2023-08-21)
 
 
