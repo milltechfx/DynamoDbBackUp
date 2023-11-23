@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.12](https://github.com/milltechfx/MillTechFX.DynamoDbBackUp/compare/v1.0.11...v1.0.12) (2023-11-23)
+
+
+### Bug Fixes
+
+* increase retry count and wait time ([3ae86dd](https://github.com/milltechfx/MillTechFX.DynamoDbBackUp/commit/3ae86ddbdf322808fe9fb71d30f1f56ebce7c00c))
+
 ## [1.0.11](https://github.com/milltechfx/MillTechFX.DynamoDbBackUp/compare/v1.0.10...v1.0.11) (2023-11-16)
 
 
